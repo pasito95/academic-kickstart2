@@ -20,6 +20,11 @@ social:
     link: https://scholar.google.com/citations?user=qMSrEdEAAAAJ&hl=en&oi=ao
     display:
       header: true
+  - display:
+      header: true
+    icon: CV
+    link: https://drive.google.com/file/d/1FgZzPyUzUYULRvGZD4CInj_PSQZjxFem/view?usp=sharing
+    icon_pack: fas
 organizations: []
 education:
   courses:

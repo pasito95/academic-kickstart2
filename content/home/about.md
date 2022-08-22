@@ -9,5 +9,7 @@ title: Biography
 design:
   background:
     image: img_20220822_130328.jpg
+    color: "#000000"
+    text_color_light: true
 ---
 Albert Boaitey holds a Ph.D. in Agricultural and Resourcce Economics from the Department of Resource Economics and Environmental Sociology (REES), University of Alberta. His research primarily focusses on sustainable food systems, farm animal welfare and food marketing.

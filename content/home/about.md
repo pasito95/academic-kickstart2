@@ -8,7 +8,7 @@ weight: 20
 title: Biography
 design:
   background:
-    image: icon.png
+    image: ""
     color: "#000000"
     text_color_light: true
 ---

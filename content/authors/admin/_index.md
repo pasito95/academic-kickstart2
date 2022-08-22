@@ -36,7 +36,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-![]()
 
 I am motivated by a desire to understand the drivers of consumer and producer decision-making within food systems looking at factors that extend beyond traditional economic considerations. And how these factors influence the transition to more sustainable systems. For consumers, I study how ethical considerations, for example, drive food choice. In case of producers, I look at the intersection of spatial and attitudinal factors in the decision to undertake sustainable practices. Some of my recent work examines intergeneration motivations of food choice within households and the role of effective public policy in ensuring incentive compatible behavior. Through my research program, I aim to identify potential the pathways through which we can foster behavior that achieves more sustainable outcomes in the food system.
 

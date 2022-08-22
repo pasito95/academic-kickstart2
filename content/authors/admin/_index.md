@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: albert.boaitey@uwrf.edu
+    link: boaitey@ualberta.ca
     display:
       header: true
   - icon: twitter

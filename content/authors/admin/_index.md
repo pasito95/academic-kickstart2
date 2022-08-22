@@ -1,7 +1,7 @@
 ---
 title: Albert Boaitey
 role: Assistant Professor of Agricultural Economics
-avatar_filename: ""
+avatar_filename: assets/media/unnamed.jpg
 bio: ""
 interests: []
 social:

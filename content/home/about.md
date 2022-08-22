@@ -8,7 +8,7 @@ weight: 20
 title: Biography
 design:
   background:
-    image: ""
+    image: unnamed.jpg
     color: rgba(0, 0, 0, 0)
     text_color_light: false
 ---

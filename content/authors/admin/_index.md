@@ -1,6 +1,6 @@
 ---
 title: Albert Boaitey
-role: " Assistant Professor of Agricultural Economics"
+role: "Lecturer Global Agri-food Supply Chains"
 avatar_filename: avatar.jpg
 bio: ""
 interests: []

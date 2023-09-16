@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: boaitey@ualberta.ca
+    link: albert.boaitey@newcastle.ac.uk
     display:
       header: true
   - icon: twitter

@@ -15,8 +15,8 @@ social:
     link: https://twitter.com/jollofeconomist
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=CpG8JCcAAAAJ&hl=en&oi=ao
     display:
       header: true
